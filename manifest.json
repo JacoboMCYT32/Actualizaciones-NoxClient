@@ -1,1 +1,42 @@
-{"schemaVersion":1,"publishedAtUtc":"2026-10-20T00:10:14.9347965+00:00","launcher":{"version":"1.1.1","minimumLauncherVersion":"1.0.0","mandatory":false,"notes":"Nox Launcher 1.1.1 x86: compatibilidad Windows x86/x64 e integración con Nox Client 0.2.7.","package":{"url":"https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/v1.1.1/NoxLauncher.exe","fileName":"NoxLauncher.exe","size":60488157,"sha256":"ab0f20ee6d490e42358aa261d0a442c3bea5dbc7df7dfa27ccc7717f00e88590","files":[{"path":"NoxLauncher.exe","size":60488157,"sha256":"ab0f20ee6d490e42358aa261d0a442c3bea5dbc7df7dfa27ccc7717f00e88590"}]}},"client":{"version":"0.2.7","minimumLauncherVersion":"1.0.0","mandatory":false,"notes":"Free Look, Hit Sounds, Hit Delay Fix y Motion Blur para Minecraft 1.8.9 / Forge 1902 / Java 8.","package":{"url":"https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.2.7/NoxClient-0.2.7.jar","fileName":"NoxClient-0.2.7.jar","size":250462,"sha256":"b75d2a777dded0d8b8a6955ec1605c20ddc06cf3f04791127a8aca4fa279eba4","files":[{"path":"mods/NoxClient-0.2.7.jar","size":250462,"sha256":"b75d2a777dded0d8b8a6955ec1605c20ddc06cf3f04791127a8aca4fa279eba4"}]}}}
+{
+  "schemaVersion": 1,
+  "publishedAtUtc": "2026-10-20T01:03:15.2267598+00:00",
+  "launcher": {
+    "version": "1.1.2",
+    "minimumLauncherVersion": "1.0.0",
+    "mandatory": false,
+    "notes": "Nox Launcher 1.1.2 x86: corrige la selección y descarga de natives Windows según la arquitectura de Java.",
+    "package": {
+      "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/v1.1.2/NoxLauncher.exe",
+      "fileName": "NoxLauncher.exe",
+      "size": 60488047,
+      "sha256": "92b29e5f67c641035509e9dcc9692279368716907452761f888ace2dc3bac251",
+      "files": [
+        {
+          "path": "NoxLauncher.exe",
+          "size": 60488047,
+          "sha256": "92b29e5f67c641035509e9dcc9692279368716907452761f888ace2dc3bac251"
+        }
+      ]
+    }
+  },
+  "client": {
+    "version": "0.2.7",
+    "minimumLauncherVersion": "1.0.0",
+    "mandatory": false,
+    "notes": "Nox Client 0.2.7 permanece sin cambios.",
+    "package": {
+      "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.2.7/NoxClient-0.2.7.jar",
+      "fileName": "NoxClient-0.2.7.jar",
+      "size": 250462,
+      "sha256": "b75d2a777dded0d8b8a6955ec1605c20ddc06cf3f04791127a8aca4fa279eba4",
+      "files": [
+        {
+          "path": "mods/NoxClient-0.2.7.jar",
+          "size": 250462,
+          "sha256": "b75d2a777dded0d8b8a6955ec1605c20ddc06cf3f04791127a8aca4fa279eba4"
+        }
+      ]
+    }
+  }
+}
