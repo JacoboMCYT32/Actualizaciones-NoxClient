@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAtUtc": "2026-10-20T01:03:15.2267598+00:00",
+  "publishedAtUtc": "2026-10-20T01:52:10.678Z",
   "launcher": {
     "version": "1.1.2",
     "minimumLauncherVersion": "1.0.0",
@@ -21,20 +21,20 @@
     }
   },
   "client": {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "minimumLauncherVersion": "1.0.0",
     "mandatory": false,
-    "notes": "Nox Client 0.2.7 permanece sin cambios.",
+    "notes": "Nox Client 0.2.8: módulos nativos FPS/Keystrokes y compatibilidad Free Look con Forge 1902 + OptiFine M5.",
     "package": {
-      "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.2.7/NoxClient-0.2.7.jar",
-      "fileName": "NoxClient-0.2.7.jar",
-      "size": 250462,
-      "sha256": "b75d2a777dded0d8b8a6955ec1605c20ddc06cf3f04791127a8aca4fa279eba4",
+      "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.2.8/NoxClient-0.2.8.jar",
+      "fileName": "NoxClient-0.2.8.jar",
+      "size": 250258,
+      "sha256": "0174e8a829c2e3bc973ed37380c48022e27a8f09d574fda99fe17064cabae5c4",
       "files": [
         {
-          "path": "mods/NoxClient-0.2.7.jar",
-          "size": 250462,
-          "sha256": "b75d2a777dded0d8b8a6955ec1605c20ddc06cf3f04791127a8aca4fa279eba4"
+          "path": "mods/NoxClient-0.2.8.jar",
+          "size": 250258,
+          "sha256": "0174e8a829c2e3bc973ed37380c48022e27a8f09d574fda99fe17064cabae5c4"
         }
       ]
     }
