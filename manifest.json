@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAtUtc": "2026-10-22T00:51:07Z",
+  "publishedAtUtc": "2026-10-22T02:48:37Z",
   "launcher": {
     "version": "1.1.3",
     "minimumLauncherVersion": "1.0.0",
@@ -15,16 +15,16 @@
     }
   },
   "client": {
-    "version": "0.3.3",
+    "version": "0.4.0",
     "minimumLauncherVersion": "1.0.0",
     "mandatory": false,
-    "notes": "Nox Client 0.3.3: mejoras de HUD/renderizado para Motion Blur, Potion Effects, Armor Status y Crosshair Pixel Perfect, junto con Animated UI, Keystrokes y TNT Timer 3D. Compilado con Gradle; pruebas visuales en Minecraft/OptiFine y medición de FPS pendientes.",
+    "notes": "Nox Client 0.4.0: mega actualización con Target Info, Reach Display visual, Session Stats, Combo Counter, HUD Studio integrado, menú modular y perfiles configurables; incluye las mejoras de HUD y renderizado anteriores. Compilado y con 15 pruebas automatizadas aprobadas; validación visual en Minecraft y OptiFine pendiente.",
     "package": {
-      "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.3.3/NoxClient-0.3.3.jar",
-      "fileName": "NoxClient-0.3.3.jar",
-      "size": 289859,
-      "sha256": "B722B20A30BE3FC95A903BC3ABC1933FCD1CB9544D67CC3A5AD7746F7B90AE86",
-      "files": [{"path": "mods/NoxClient-0.3.3.jar", "size": 289859, "sha256": "B722B20A30BE3FC95A903BC3ABC1933FCD1CB9544D67CC3A5AD7746F7B90AE86"}]
+      "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.4.0/NoxClient-0.4.0.jar",
+      "fileName": "NoxClient-0.4.0.jar",
+      "size": 318158,
+      "sha256": "5cd9442679bd6fce3d3aebaee820deac8ec1fa3712fb41dd229a04ff1bf97e78",
+      "files": [{"path": "mods/NoxClient-0.4.0.jar", "size": 318158, "sha256": "5cd9442679bd6fce3d3aebaee820deac8ec1fa3712fb41dd229a04ff1bf97e78"}]
     }
   }
 }
