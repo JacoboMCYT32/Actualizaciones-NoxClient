@@ -18,7 +18,7 @@
     "version": "0.4.0",
     "minimumLauncherVersion": "1.0.0",
     "mandatory": false,
-    "notes": "Nox Client 0.4.0: mega actualización con Target Info, Reach Display visual, Session Stats, Combo Counter, HUD Studio integrado, menú modular y perfiles configurables; incluye las mejoras de HUD y renderizado anteriores. Compilado y con 15 pruebas automatizadas aprobadas; validación visual en Minecraft y OptiFine pendiente.",
+    "notes": "Nox Client 0.4.0: mega actualización con Target Info, Reach Display visual, Session Stats, Combo Counter, HUD Studio integrado, menú modular y perfiles configurables; incluye las mejoras de HUD y renderizado anteriores. Validado con .\\gradlew.bat test build: compilación y 15 pruebas automatizadas aprobadas; validación visual en Minecraft y OptiFine pendiente.",
     "package": {
       "url": "https://github.com/JacoboMCYT32/Actualizaciones-NoxClient/releases/download/client-0.4.0/NoxClient-0.4.0.jar",
       "fileName": "NoxClient-0.4.0.jar",
